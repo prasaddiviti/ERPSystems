@@ -25,7 +25,8 @@ To use the Simplified ERP System application:
 3. Click on the "Order page" button to navigate to the order page.
 
 ## Screenshot
-![home png](https://github.com/prasaddiviti/ERPsystems/assets/141943264/02b78c5b-7f5e-4664-b3dc-11d2f83943b3)
+
+![home png](https://github.com/prasaddiviti/ERPSystems/assets/141943264/08b5199c-ca6a-4ea9-ae24-e49d12f0884a)
 
 ## Description of product page
 The Product Management System is a web application designed to manage products. It allows users to view, add, edit, and delete products from a list. The application utilizes React for the frontend.
@@ -44,7 +45,7 @@ Delete products from the list.
 
 => Fill in the form at the bottom of the page to add a new product.
 ## Screenshot
-![product png](https://github.com/prasaddiviti/ERPsystems/assets/141943264/c2b70b34-0164-41eb-ace3-9497ee843431)
+![product png](https://github.com/prasaddiviti/ERPSystems/assets/141943264/472b7d1a-33c0-4298-aeb3-96b06be62299)
 
 ## Description of Order Page
 This is a simple Order Management System implemented in React.
@@ -66,8 +67,8 @@ Orders Calendar View :
 => Calendar view that displays orders on their expected delivery dates.
 => It Provide the ability to click on a date to view all orders due for delivery that day.
 ## Screenshot
-![order1 png](https://github.com/prasaddiviti/ERPsystems/assets/141943264/842f6219-8e6d-44e4-b5be-d96f0bfc5f35)
-![order2 png](https://github.com/prasaddiviti/ERPsystems/assets/141943264/4c10589d-2e86-4c0f-ba55-4d17a7b224d0)
+![order1 png](https://github.com/prasaddiviti/ERPSystems/assets/141943264/ae9bbaf2-3ad7-4a67-9c3b-c10f864e66f9)
+![order2 png](https://github.com/prasaddiviti/ERPSystems/assets/141943264/619ac230-723a-4645-8646-96d5a5443bdc)
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
