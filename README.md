@@ -20,9 +20,21 @@ The Simplified ERP System is a web application designed to provide a simplified 
 
 To use the Simplified ERP System application:
 
-1. Open your web browser and navigate to the URL where the application is hosted.
-2. Click on the "product page" button to navigate to the product page.
-3. Click on the "Order page" button to navigate to the order page.
+1. We must create a React app using the command npx create-react-app, specifying the file name as Simplified-ERP-System.
+2. To install the required dependencies and import them into your file, you can follow these steps:
+   First, make sure you have Node.js and npm installed on your system.
+   Run the following command to install the required dependencies:
+   npm install react-router-dom react react-dom react-calendar
+   After the installation is complete, you can import the required modules into your file.
+3. Open your terminal or command prompt and navigate to the directory where your React app is located. Use the cd command to change 
+   directories.Start the Development Server: Run the following command to start the development server:
+   npm start
+   This command will start the development server and open your default web browser to display your React app.
+   Once the development server has started, your React app should be running and accessible in your web browser. If it doesn't open 
+   automatically, you can access it by navigating to http://localhost:3000 in your web browser.
+4. Open your web browser and navigate to the URL where the application is hosted.
+5. Click on the "product page" button to navigate to the product page.
+6. Click on the "Order page" button to navigate to the order page.
 
 ## Screenshot
 
