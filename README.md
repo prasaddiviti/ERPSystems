@@ -21,6 +21,7 @@ The Simplified ERP System is a web application designed to provide a simplified 
 To use the Simplified ERP System application:
 
 -  We must create a React app using the command npx create-react-app, specifying the file name as Simplified-ERP-System.
+-  npx create-react-app Simplified-ERP-System
 -  To install the required dependencies and import them into your file, you can follow these steps:
    First, make sure you have Node.js and npm installed on your system.
    Run the following command to install the required dependencies:
